@@ -437,8 +437,7 @@ var elizaKeywords = [
      "What is it you really want to know ?",
      "What answer would please you most?",
      "What do you think?",
-     "What makes you think you're so smart?",
-     "Is that your excuse?"
+     "What makes you think you're so smart?"
   ]]
 ]],
 ["who", 0, [
